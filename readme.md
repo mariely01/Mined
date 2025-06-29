@@ -22,13 +22,7 @@ Fue creado con el objetivo de facilitar el trabajo docente en el registro de asi
 - **Macros en VBA** para automatización  
 - **Formulario interactivo** (si lo incluye)  
 
----
 
-## Capturas (opcional)
-
-*(Puedes agregar capturas como `assets/asistencia-formulario.png` si las tienes)*
-
----
 
 ##  Cómo usarlo
 
